@@ -9,17 +9,17 @@ I'm Nishat Fatima Mohammad, a passionate Bioinformatician with medical backgroun
 
 ### 1. Machine Learning Models for Tumor Classification and Lung Cancer Prediction
 - **Description**: To Classify and predicat Lung cancer cases using Random Forest, SVM, ANN, Decision Trees 
-- **Technologies, Tools, Databases**: R, HPCC, ML Algorithms, HTML, Latex, TCGA
+- **Technologies, Tools, Databases**: R, HPCC, ML Algorithms, HTML, LaTex, TCGA
 - **Link**: https://github.com/NishatMohammad/HeterogenousMLModelLungCancerPrediction
 
 ### 2. Prediction of Diabetes Cases
 - **Description**: Predict Diabetes Mellites using simple ML algorithms
-- **Technologies, Tools, Databases**: R, HPCC, KNN, HTML, Latex, Kaggle
+- **Technologies, Tools, Databases**: R, HPCC, KNN, HTML, LaTex, Kaggle
 - **Link**: https://github.com/NishatMohammad/ApplyKNNforDiabetesCasePrediction
 
 ### 3. Understanding Interactions between Transcription Factors and Histone Modification in Lymphoblastoid Cell Line through ChIP-Seq Analysis
 - **Description**: To explore the interactions between transcription factors and histone modifications in a lymphoblastoid cell line using ChIP-Seq analysis, aiming to understand gene regulation mechanisms.
-- **Technologies, Tools, Databases**: R, ChIP-Seq, Bioconductor, UCSC Browser, ENCODE, HPCC, HTML, Latex, 
+- **Technologies, Tools, Databases**: R, ChIP-Seq, Bioconductor, UCSC Browser, ENCODE, HPCC, HTML, LaTex, 
 - **Link**: https://github.com/NishatMohammad/ChIPSeqLymphobalstoidCellLine
 
 ### 4. Transcriptomics Analysis for Sall2 Knock Out Genetically Engineered Mice
